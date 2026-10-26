@@ -163,6 +163,7 @@
 *(all tasks complete)*
 
 ### TASK-SOUND-001 — Exact vote sound events
+
 **References:** REQ-SOUND-001
 **Evidence:** Existing Sound.valueOf replaces custom events with an experience-orb cue. Add a sound port and Bukkit adapter; custom routing and offline recipient regressions, canonical build and TEST activation pending.
 
